@@ -1,14 +1,14 @@
 $space-large: 2.5rem;
-$titleColor: #800080;
-$mainBackground: #fff;
+$title-color: #555;
+$main-background: #fff;
 
 
 body {
-    background: $mainBackground;
+    background: $main-background;
 }
 
 .page-title {
-    color: $titleColor;
+    color: $title-color;
     margin-top: $space-large;
     margin-bottom: $space-large;
 }
